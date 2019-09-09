@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xuizohyahp.chansonshen.com/sitemap.xml
